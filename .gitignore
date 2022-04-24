@@ -10,7 +10,6 @@ $RECYCLE.BIN/
 build/
 deploy/
 doc/
-misc/
 
 # Qt
 *.user
